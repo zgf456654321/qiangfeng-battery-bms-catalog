@@ -12,6 +12,7 @@ This catalogue links to existing product photographs and project information. It
 - Phone / 电话: **+86 19921917746**
 - WeChat / 微信: **dream_zhu_**
 - Business email: **[zgf004494@yeah.net](mailto:zgf004494@yeah.net)**
+- [中文一页采购联系卡 / Chinese procurement contact card (PDF)](qiangfeng-bms-pack-supply-card-zh.pdf)
 - [Company profile and enquiry links / 公司及询价入口](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/company)
 - [中文产品目录](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/zh)
 - [English catalogue](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/)
@@ -68,4 +69,4 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **20 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **21 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
