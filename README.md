@@ -18,6 +18,26 @@ This catalogue links to existing product photographs and project information. It
 - [English catalogue](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/)
 - [Company website / 公司官网](https://www.qiangfengsh.com/)
 
+## 国内BMS与锂电池PACK采购目录
+
+强风新能源科技（上海）有限公司开展BMS研发、板卡配套与锂电池PACK项目。上海负责研发与项目对接，电池生产及库存由江西工厂协调。面向全国设备厂家、PACK企业和系统集成商，按实际用途、型号与交付地区确认供货范围。
+
+| 产品或项目 | 已公开的实物与型号 | 选型及采购入口 |
+|---|---|---|
+| 无人机6串BMS板组 | LYF6S20A，资料标称6串20A，主板、开关指示板及电芯连接板分别核对 | [6S板组原图与参数说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) |
+| 分布式BMS主控 | SHQF-MBMS V1.0原板，外部接触器、传感器、线束及固件另行确认 | [主控实拍与爱采购商品入口](https://www.qiangfengsh.com/product.html#verified-board-supply) |
+| 电芯采集模块 | SHQF-CBMS V1.0，18串单板采集范围，核对电芯体系、线序、温度与主控配套 | [18串采集板实拍](https://www.qiangfengsh.com/product.html#verified-board-supply) |
+| EMS储能控制板 | 公司原始实拍，BMS、PCS及外围设备接口与协议按项目确认 | [EMS实拍与采购说明](https://www.qiangfengsh.com/product.html#verified-board-supply) |
+| 5至32串BMS系列 | 原板与采样线束照片，串数、电流与通信功能按所选版本确认 | [BMS系列与项目参数](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/5-32s-bms) |
+| 2至4串电量计BMS | 现有BQ40Z50平台资料与SMBus方案，照片板型、固件和主机接口分别核对 | [电量计BMS原图与配套说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/fuel-gauge-bms) |
+| 高压固定翼无人机电池项目 | 电池PACK、BMS主控与采集、PDU配电及CAN通信，按整机要求评估 | [民用无人机电池配套范围](https://www.qiangfengsh.com/drone-bms.html) |
+| 锂电池PACK定制 | 电芯、BMS、结构、线束、通信与充电配套的供货边界 | [PACK项目与询价说明](https://www.qiangfengsh.com/battery-pack-custom.html) |
+| AGV与机器人电池包 | 安装空间、任务节拍、持续与峰值负载、充电方式和主机协议 | [AGV及机器人电池项目](https://www.qiangfengsh.com/agv-robot-battery-pack.html) |
+
+表中照片用于查看已有硬件与项目资料。板卡、线束、壳体、整组电池的供货范围分别确认；高压无人机方案的样机、整机集成、验证与适航配合范围另行约定。
+
+询价请说明设备用途、电芯型号与串并联、电压容量、持续和峰值负载及时间、尺寸重量、主机通信、数量、交付城市和计划时间。电话 **19921917746**，微信 **dream_zhu_**，邮箱 **[zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。
+
 ## BMS and PACK references / 产品与项目资料
 
 | Reference | Supply scope and original photographs |
@@ -66,6 +86,7 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 
 - [Company and public product facts](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/company)
 - [Plain-text company/product index](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/llms.txt)
+- [Four battery model references checked against 2026 transport documents](https://www.qiangfengsh.com/international.html#battery-document-review) — model references, not carrier or marketplace approval.
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
