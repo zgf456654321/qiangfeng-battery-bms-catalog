@@ -74,6 +74,20 @@ These are third-party compatible accessories, not official Starlink or SpaceX pr
 
 [Four-capacity battery page and enquiry inputs](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/starlink-mini-battery)
 
+### Real installation demonstration / 实物安装演示
+
+<a href="https://www.qiangfengsh.com/international.html#battery-installation"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-installation-poster-original.png" alt="Original Qiangfeng compatible-battery installation, button and indicator demonstration" width="240"></a>
+
+Watch 14.8 seconds of original manufacturer footage showing fitting, the power button and the indicator. The silent demonstration is a series reference; confirm the selected capacity and hardware version in the quotation. It is not a runtime or network-connectivity test.
+
+查看真实安装、按键与指示灯演示，再对照上表选择容量。视频展示同系列硬件；具体容量、供货版本和随配充电器在报价中确认。
+
+- [Watch the original demonstration on Qiangfeng’s company website / 官网实物演示](https://www.qiangfengsh.com/international.html#battery-installation)
+- [View the four charger-included kit quotes and supplier phone / 爱采购四容量报价与商家电话](https://b2b.baidu.com/land/e2ee5658716f3f6532efc389ae691b01)
+- [Request a capacity and destination quotation / 提交容量与目的地询价](mailto:zgf004494@yeah.net?subject=Battery%20kit%20and%20destination%20quote&body=Capacity%3A%0AQuantity%3A%0ADestination%20country%20and%20city%3A%0APostcode%3A%0ACharger%20plug%3A%0ARetail%20or%20wholesale%3A%0A)
+
+These are enquiry links. Battery carriage, destination requirements, total delivered price and returns are confirmed before accepting an order.
+
 ## Quotation inputs / 询价资料
 
 For a BMS or PACK project, send the application, cell chemistry/model and series/parallel configuration, voltage and energy, continuous/peak current and duration, installation dimensions and weight limit, host communication/CAN protocol, required supply scope, quantity, destination city/country and requested delivery date. State whether you need boards, wiring or a complete battery PACK.
