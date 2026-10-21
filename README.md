@@ -38,6 +38,24 @@ This catalogue links to existing product photographs and project information. It
 
 询价请说明设备用途、电芯型号与串并联、电压容量、持续和峰值负载及时间、尺寸重量、主机通信、数量、交付城市和计划时间。电话 **19921917746**，微信 **dream_zhu_**，邮箱 **[zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。
 
+## 高压BMS主控、采集与系统配套 / High-voltage BMS selection
+
+面向储能PACK企业和设备集成商，强风提供高压BMS项目对接。下面按已核对的规格资料区分主控、采集和系统总控，采购时明确所需层级及供货清单。
+
+| 单元 / Unit | 资料型号与范围 / Documented reference | 报价需确认 / Quotation inputs |
+|---|---|---|
+| BCU主控 / Battery controller | **BCU-B24-01**：电池数据汇总、状态告警与控制；CAN、RS485及PCS/EMS接口配套 | 传感器、继电器、线束、接口与固件版本 |
+| BMU采集 / Cell-monitoring module | **BMU-B18**：资料配置为单板**4至18串**，温度采集、被动均衡与**isoSPI**菊花链 | 电芯体系、单板串数、模块数量、线序与主控配套 |
+| BAU系统总控 / System-level controller | 三级BMS系统的数据汇总及对外接口，协调主控、采集及上层设备 | 具体型号、系统规模、PCS/EMS通信与固件逐项确认 |
+
+These are separate controller and acquisition references. The BMU's 4–18-cell range is per module, not the series count of the complete battery system. Define the cell chemistry, module count, system voltage, host protocol and required supplied parts before quotation.
+
+[查看官网高压BMS选型与项目说明 / Company selection information](https://www.qiangfengsh.com/product.html)
+
+上面的规格系列与本目录SHQF-MBMS、SHQF-CBMS实拍板卡分别选型，不将照片与其他系列的额定电压、电流或接口直接对应。高压绝缘、保护、PDU和整机验证按项目确认；板卡资料不代表整机验证或适航批准。
+
+**项目联系 / Project enquiries:** 电话 **+86 19921917746** · 微信 **dream_zhu_** · 邮箱 **[zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。
+
 ## BMS and PACK references / 产品与项目资料
 
 | Reference | Supply scope and original photographs |
