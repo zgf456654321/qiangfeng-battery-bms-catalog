@@ -77,12 +77,16 @@ These are separate controller and acquisition references. The BMU's 4–18-cell 
 
 Independently supplied compatible batteries with a matched charger and user manual. The terminal, satellite-service subscription and solar panel are not included in the base kit.
 
-| Model | Nominal voltage | Rated capacity | Kit reference retail price (CNY) |
-|---|---:|---:|---:|
-| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | 765 |
-| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | 934 |
-| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | 947 |
-| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | 1,064 |
+| Model | Nominal voltage | Rated capacity | Kit reference retail price (CNY) | Online enquiry / 询价（预填型号） |
+|---|---:|---:|---:|---|
+| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | 765  [99Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-99%20%2F%2018V%2099Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | 934  [158Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-158%20%2F%2018V%20158Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | 947  [180Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-180%20%2F%2018V%20180Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | 1,064  [200Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-200%20%2F%2018V%20200Wh%20battery%20%2B%20matched%20charger%20kit) |
+
+The online links prefill the selected battery model and matched-charger kit. **Add your quantity to the first answer, then complete the destination and reply details.** This is an enquiry, not an order or payment. You may also use the existing email enquiry below.
+
+在线表单会带入所选型号和带充电器套装；请在第一项补充数量，再填写目的地与回复方式。此为询价，不是下单或付款；也可使用下方邮件入口。
 
 These China-origin kit reference prices **exclude freight**. A compatible 60W 36V folding solar panel is an optional accessory at CNY299, subject to version and availability confirmation. It is not included by default. Wholesale and destination-specific quotations are confirmed separately.
 
@@ -122,4 +126,4 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **21 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **22 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
