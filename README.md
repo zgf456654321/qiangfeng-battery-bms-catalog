@@ -79,10 +79,10 @@ Independently supplied compatible batteries with a matched charger and user manu
 
 | Model | Nominal voltage | Rated capacity | Kit reference retail price (CNY) | Online enquiry / 询价（预填型号） |
 |---|---:|---:|---:|---|
-| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | 765  [99Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-99%20%2F%2018V%2099Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | 934  [158Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-158%20%2F%2018V%20158Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | 947  [180Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-180%20%2F%2018V%20180Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | 1,064  [200Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-200%20%2F%2018V%20200Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | 765 | [99Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-99%20%2F%2018V%2099Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | 934 | [158Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-158%20%2F%2018V%20158Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | 947 | [180Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-180%20%2F%2018V%20180Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | 1,064 | [200Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-200%20%2F%2018V%20200Wh%20battery%20%2B%20matched%20charger%20kit) |
 
 The online links prefill the selected battery model and matched-charger kit. **Add your quantity to the first answer, then complete the destination and reply details.** This is an enquiry, not an order or payment. You may also use the existing email enquiry below.
 
