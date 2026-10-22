@@ -24,10 +24,11 @@ This catalogue links to existing product photographs and project information. It
 
 | 产品或项目 | 已公开的实物与型号 | 选型及采购入口 |
 |---|---|---|
-| 无人机6串BMS板组 | LYF6S20A，资料标称6串20A，主板、开关指示板及电芯连接板分别核对 | [6S板组原图与参数说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) |
+| 无人机6串BMS板组 | LYF6S20A，资料标称6串20A，主板、配套小板及电芯连接板分别核对；上海发货、1件起订、面议 | [6S板组原图与参数说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) · [中英文供货询价卡](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf) |
 | 分布式BMS主控 | SHQF-MBMS V1.0原板，外部接触器、传感器、线束及固件另行确认 | [主控实拍与爱采购商品入口](https://www.qiangfengsh.com/product.html#verified-board-supply) |
-| 电芯采集模块 | SHQF-CBMS V1.0，18串单板采集范围，核对电芯体系、线序、温度与主控配套 | [18串采集板实拍](https://www.qiangfengsh.com/product.html#verified-board-supply) |
+| 电芯采集模块 | SHQF-CBMS V1.0，18串单板采集范围，核对电芯体系、线序、温度与主控配套 | [18串采集板独立采购页与实拍](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/18s-cell-monitoring-board) |
 | EMS储能控制板 | 公司原始实拍，BMS、PCS及外围设备接口与协议按项目确认 | [EMS实拍与采购说明](https://www.qiangfengsh.com/product.html#verified-board-supply) |
+| 硬件锂电保护板设计 | 3至15串纯硬件保护、5至16串可调设置参数两款原板参考；电气限值、设置方式、供货版本与交期按项目确认 | [两款硬件保护板原图与采购说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/hardware-protection-bms) |
 | 5至32串BMS系列 | 原板与采样线束照片，串数、电流与通信功能按所选版本确认 | [BMS系列与项目参数](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/5-32s-bms) |
 | 2至4串电量计BMS | 现有BQ40Z50平台资料与SMBus方案，照片板型、固件和主机接口分别核对 | [电量计BMS原图与配套说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/fuel-gauge-bms) |
 | 高压固定翼无人机电池项目 | 电池PACK、BMS主控与采集、PDU配电及CAN通信，按整机要求评估 | [民用无人机电池配套范围](https://www.qiangfengsh.com/drone-bms.html) |
@@ -60,9 +61,11 @@ These are separate controller and acquisition references. The BMU's 4–18-cell 
 
 | Reference | Supply scope and original photographs |
 |---|---|
-| [LYF6S20A 6S UAV BMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) | BMS board set, switch and indicator references. Board supply is distinct from a complete battery PACK. |
+| [LYF6S20A 6S UAV BMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) | Main-board, companion-board and cell-connection references. Included parts and switching/indicator functions are confirmed for the selected version; board supply is distinct from a complete battery PACK. |
 | [High-voltage BMS and EMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/high-voltage-bms-ems) | Controller, cell-acquisition and EMS board references. Required components and host interfaces are confirmed per project. |
 | [Civil high-voltage UAV battery project](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/high-voltage-uav-battery) | PACK, BMS, PDU and CAN requirements, installation and validation scope. Aircraft integration and airworthiness approval are separate project responsibilities. |
+| [18S SHQF-CBMS V1.0 cell-acquisition board](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/18s-cell-monitoring-board) | Original cell-monitoring board and master-controller matching. The 18S range is per board; wiring, firmware, module count and supplied parts are confirmed separately. |
+| [3–15S / 5–16S hardware-protection BMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/hardware-protection-bms) | Two separate board designs from 2024 company project materials. Electrical limits, configuration method, current supply revision and lead time are confirmed per project. |
 | [Relay-control BMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/relay-control-bms) | Existing board and battery-enclosure photographs. Switching, wiring and PACK scope must be specified. |
 | [Fuel-gauge BMS](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/fuel-gauge-bms) | Existing hardware reference and version/interface matching for a battery project. |
 | [5–32S BMS project support](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/5-32s-bms) | Board, chemistry, voltage, current and communication requirements matched to the selected version. |
