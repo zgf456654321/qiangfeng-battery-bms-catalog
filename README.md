@@ -108,6 +108,8 @@ Watch 14.8 seconds of original manufacturer footage showing fitting, the power b
 查看真实安装、按键与指示灯演示，再对照上表选择容量。视频展示同系列硬件；具体容量、供货版本和随配充电器在报价中确认。
 
 - [Watch the original demonstration on Qiangfeng’s company website / 官网实物演示](https://www.qiangfengsh.com/international.html#battery-installation)
+- [YouTube installation demonstration — Malay, Hindi and Urdu captions / 三语字幕实物演示](https://www.youtube.com/shorts/P1m5C3dLEyc)
+- [StrongWindPower Malaysia company TikTok / 马来店关联公司号](https://www.tiktok.com/@strongwindpower_my) — product demonstrations; battery shipping and order availability require separate confirmation.
 - [View the four charger-included kit quotes and supplier phone / 爱采购四容量报价与商家电话](https://b2b.baidu.com/land/e2ee5658716f3f6532efc389ae691b01)
 - [Request a capacity and destination quotation / 提交容量与目的地询价](mailto:zgf004494@yeah.net?subject=Battery%20kit%20and%20destination%20quote&body=Capacity%3A%0AQuantity%3A%0ADestination%20country%20and%20city%3A%0APostcode%3A%0ACharger%20plug%3A%0ARetail%20or%20wholesale%3A%0A)
 
