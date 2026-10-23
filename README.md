@@ -103,18 +103,18 @@ These are separate controller and acquisition references. The BMU's 4–18-cell 
 
 Independently supplied compatible batteries with a matched charger and user manual. The terminal, satellite-service subscription and solar panel are not included in the base kit.
 
-| Model | Nominal voltage | Rated capacity | Kit reference retail price (CNY) | Online enquiry / 询价（预填型号） |
-|---|---:|---:|---:|---|
-| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | 765 | [99Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-99%20%2F%2018V%2099Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | 934 | [158Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-158%20%2F%2018V%20158Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | 947 | [180Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-180%20%2F%2018V%20180Wh%20battery%20%2B%20matched%20charger%20kit) |
-| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | 1,064 | [200Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-200%20%2F%2018V%20200Wh%20battery%20%2B%20matched%20charger%20kit) |
+| Model | Nominal voltage | Rated capacity | Online enquiry / 询价（预填型号） |
+|---|---:|---:|---|
+| LIFIRST-HB-99 | 18V | 5.5Ah / 99Wh | [99Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-99%20%2F%2018V%2099Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-158 | 18V | 8.8Ah / 158Wh | [158Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-158%20%2F%2018V%20158Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-180 | 18V | 10Ah / 180Wh | [180Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-180%20%2F%2018V%20180Wh%20battery%20%2B%20matched%20charger%20kit) |
+| LIFIRST-HB-200 | 18V | 11Ah / 200Wh | [200Wh: enquire and confirm shipping](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=LIFIRST-HB-200%20%2F%2018V%20200Wh%20battery%20%2B%20matched%20charger%20kit) |
 
 The online links prefill the selected battery model and matched-charger kit. **Add your quantity to the first answer, then complete the destination and reply details.** This is an enquiry, not an order or payment. You may also use the existing email enquiry below.
 
 在线表单会带入所选型号和带充电器套装；请在第一项补充数量，再填写目的地与回复方式。此为询价，不是下单或付款；也可使用下方邮件入口。
 
-These China-origin kit reference prices **exclude freight**. A compatible 60W 36V folding solar panel is an optional accessory at CNY299, subject to version and availability confirmation. It is not included by default. Wholesale and destination-specific quotations are confirmed separately.
+Retail and wholesale prices are available on request for the selected capacity, quantity and accessories. A matched charger is included; freight is quoted separately. A compatible 60W 36V folding solar panel is an optional battery-kit accessory, quoted separately and not included by default. Confirm the selected version and availability with us.
 
 Operating time varies with terminal load, settings, battery state and conditions; no fixed runtime is guaranteed. Exact charger specifications and packed shipping weight must match the dispatched version. Model-specific test documents, carrier acceptance, destination import conditions, warehousing, last-mile delivery, returns and marketplace permission are separate checks. No approved TikTok battery route or worldwide delivery is implied by this catalogue. Shipping and after-sales conditions must be confirmed before an order is accepted.
 
@@ -133,7 +133,7 @@ Watch 14.8 seconds of original manufacturer footage showing fitting, the power b
 - [Watch the original demonstration on Qiangfeng’s company website / 官网实物演示](https://www.qiangfengsh.com/international.html#battery-installation)
 - [YouTube installation demonstration — Malay, Hindi and Urdu captions / 三语字幕实物演示](https://www.youtube.com/shorts/P1m5C3dLEyc)
 - [StrongWindPower Malaysia company TikTok / 马来店关联公司号](https://www.tiktok.com/@strongwindpower_my) — product demonstrations; battery shipping and order availability require separate confirmation.
-- [View the four charger-included kit quotes and supplier phone / 爱采购四容量报价与商家电话](https://b2b.baidu.com/land/e2ee5658716f3f6532efc389ae691b01)
+- [View four charger-included kit specifications and supplier phone / 爱采购四容量规格与商家电话](https://b2b.baidu.com/land/e2ee5658716f3f6532efc389ae691b01)
 - [Request a capacity and destination quotation / 提交容量与目的地询价](mailto:zgf004494@yeah.net?subject=Battery%20kit%20and%20destination%20quote&body=Capacity%3A%0AQuantity%3A%0ADestination%20country%20and%20city%3A%0APostcode%3A%0ACharger%20plug%3A%0ARetail%20or%20wholesale%3A%0A)
 
 These are enquiry links. Battery carriage, destination requirements, total delivered price and returns are confirmed before accepting an order.
@@ -155,4 +155,5 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
 Updated: **23 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+
 
