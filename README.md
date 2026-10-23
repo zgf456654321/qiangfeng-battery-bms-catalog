@@ -18,6 +18,19 @@ This catalogue links to existing product photographs and project information. It
 - [English catalogue](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/)
 - [Company website / 公司官网](https://www.qiangfengsh.com/)
 
+## English BMS development and battery PACK enquiries
+
+[**Custom BMS development in Shanghai — actual boards and project contact**](https://www.qiangfengsh.com/custom-bms-shanghai.html)
+
+Our dedicated English procurement page brings together five original photographs: the 5–32S board, LYF6S20A 6S UAV board group, SHQF-MBMS V1.0 master, SHQF-CBMS V1.0 18S acquisition board and a 2024 48V PACK assembly reference. Each is identified separately so buyers can distinguish board supply from a complete battery project.
+
+Start with the application, cell chemistry and configuration, voltage range, continuous/peak current and duration, size and weight limits, host CAN/RS485 requirements, quantity and destination. We review an existing design before defining firmware, wiring, customization or PACK scope. Features depend on the selected revision; quotation and validation are agreed per project.
+
+- [Send an English BMS/PACK project brief or view phone, WeChat and email](https://www.qiangfengsh.com/custom-bms-shanghai.html#enquiry)
+- [Compare the original UAV, master and cell-monitoring board photographs](https://www.qiangfengsh.com/custom-bms-shanghai.html#hardware)
+
+Prices are on request. Export carriage, delivery and returns require destination-specific confirmation before order acceptance.
+
 ## 项目需求与资料订阅 / Project brief and updates
 
 **高压固定翼无人机电池项目**：可分别沟通电池PACK、BMS主控与采集、PDU配电及CAN接口。先明确所需供货范围，再按预算匹配已有板型、固件、结构与验证工作。
@@ -154,6 +167,6 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **23 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **24 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
 
 
