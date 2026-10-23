@@ -18,6 +18,16 @@ This catalogue links to existing product photographs and project information. It
 - [English catalogue](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/)
 - [Company website / 公司官网](https://www.qiangfengsh.com/)
 
+## 项目需求与资料订阅 / Project brief and updates
+
+**高压固定翼无人机电池项目**：可分别沟通电池PACK、BMS主控与采集、PDU配电及CAN接口。先明确所需供货范围，再按预算匹配已有板型、固件、结构与验证工作。
+
+- [中英项目需求表：选择PACK、BMS、PDU范围并生成询价文本](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/high-voltage-uav-battery#project-request)。生成仅在本页整理；由客户自行复制或发送，不自动下单或收款。
+- [公司采购资料更新页](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/zh#company-news) · [RSS订阅（8条既有产品与采购资源）](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/feed.xml)。可查看高压项目配套、6S板组、18串采集板和四容量兼容电池资料；资料入口不代表现货或交付批准。
+- High-voltage UAV enquiries: choose PACK, BMS, PDU or a combined scope in the bilingual project brief. Include voltage/energy, load duration, module space/mass, host CAN requirements, quantity and destination. Quotation, prototype and verification scope are agreed per project.
+
+**采购联系：19921917746 · 微信 dream_zhu_ · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。航用系统集成、整机验证及适航审定按项目另行确认。
+
 ## 国内BMS与锂电池PACK采购目录
 
 强风新能源科技（上海）有限公司开展BMS研发、板卡配套与锂电池PACK项目。上海负责研发与项目对接，电池生产及库存由江西工厂协调。面向全国设备厂家、PACK企业和系统集成商，按实际用途、型号与交付地区确认供货范围。
@@ -144,4 +154,5 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **22 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **23 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+
