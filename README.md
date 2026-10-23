@@ -135,6 +135,12 @@ These are third-party compatible accessories, not official Starlink or SpaceX pr
 
 [Four-capacity battery page and enquiry inputs](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/starlink-mini-battery)
 
+### Design reference / 外观设计资料
+
+The Chinese design application **202530369177.8**, filed on **25 June 2025**, names Qiangfeng New Energy Technology (Shanghai) Co., Ltd. The design title is **迷你供电电池（星链带底座功能的）**. [Published reference CN309883941S on Google Patents](https://patents.google.com/patent/CN309883941S/zh).
+
+[Buyer checks and enclosure enquiry / 官网设计资料与外观版本询问](https://www.qiangfengsh.com/international.html#battery-design-reference). This reference concerns appearance; confirm the actual enclosure revision and kit before quoting. Battery safety documentation, transport acceptance and marketplace permission are separate checks.
+
 ### Real installation demonstration / 实物安装演示
 
 <a href="https://www.qiangfengsh.com/international.html#battery-installation"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-installation-poster-original.png" alt="Original Qiangfeng compatible-battery installation, button and indicator demonstration" width="240"></a>
