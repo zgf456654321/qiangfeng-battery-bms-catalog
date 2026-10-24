@@ -23,6 +23,16 @@ This catalogue links to existing product photographs and project information. It
 
 **UAV battery projects:** 4S / 6S / 7S custom PACK enquiries, simplified-board options and in-house BMS integration. We match the configuration to the aircraft, load and budget. Capacity, current, discharge rating, dimensions, delivery and validation are confirmed for the selected cells and assembly; prices on request.
 
+### 两款电池外观 / UAV battery formats
+
+| 深灰款 / Dark housing | 浅灰提手款 / Carry-handle housing |
+|---|---|
+| <a href="https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-dark-cutout-20261024.png" width="240" alt="强风可供货深灰款无人机电池：开关指示区、壳体与侧锁扣外观"></a> | <a href="https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-handle-cutout-20261024.png" width="240" alt="强风可供货浅灰提手款无人机电池：提手、壳体竖肋与锁扣外观"></a> |
+
+可供货外观实拍，经AI辅助抠图，非等比例。串数、容量、电流、板卡及接口按具体型号确认。[查看官网电池款式与联系报价](https://www.qiangfengsh.com/drone-bms.html#contact)。
+
+Company-authorized supply-product photographs, with AI-assisted background removal. These exterior styles do not identify fixed 4S/6S/7S specifications. Send the aircraft, capacity, load, installation size and quantity for model selection and quotation.
+
 ## Contact / 采购联系
 
 - Phone / 电话: **+86 19921917746**
