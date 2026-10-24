@@ -35,7 +35,7 @@ Company-authorized supply-product photographs, with AI-assisted background remov
 
 ### 15秒实物展示 / Real product footage
 
-[![强风无人机电池实物手持展示，查看壳体、侧锁扣和顶部按键区](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-real-view-poster-20261025.jpg)](https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos)
+<a href="https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-real-view-poster-20261025.jpg" width="240" alt="强风无人机电池实物手持展示，查看壳体、侧锁扣和顶部按键区"></a>
 
 [官网播放并联系选型 / Watch and enquire](https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos) · [15.2秒无声实拍MP4 / Silent real-footage clip](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-real-view-20261025.mp4)
 
