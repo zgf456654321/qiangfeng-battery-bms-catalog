@@ -7,6 +7,22 @@ BMS development, board supply and lithium battery PACK project enquiries for equ
 
 This catalogue links to existing product photographs and project information. It is not a hardware/firmware source release or an online checkout.
 
+## 4S / 6S / 7S无人机电池：自研BMS与PACK定制
+
+**强风正在重点推进无人机电池配套，主打高性价比与定制服务。** 结合电芯原厂合作资源，按机型、负载和预算匹配电芯、板卡与PACK装配，不用一套配置覆盖所有项目。
+
+- **简易板方案**：先核对所需监测、保护和接口，再确认实际板卡、电芯、线束与整包供货配置。
+- **自研无人机BMS配套**：电芯、充电器、开关、电量指示或通信按所选硬件与固件匹配。
+- **完整电池PACK**：按4S、6S、7S项目沟通串并联、容量、负载、尺寸重量、线束与接插件，支持样品和批量项目询价。
+
+[**查看4S / 6S / 7S无人机电池配套与发送需求**](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options)
+
+请提供机型、所需容量、持续/峰值电流及持续时间、尺寸重量、数量和预算。具体电芯、C倍率、交期、报价及验证范围逐项确认。既有LYF6S20A照片是6S BMS板组参考，20A不代表全部无人机电池PACK的放电能力。
+
+**电话19921917746 · 微信dream_zhu_ · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)**
+
+**UAV battery projects:** 4S / 6S / 7S custom PACK enquiries, simplified-board options and in-house BMS integration. We match the configuration to the aircraft, load and budget. Capacity, current, discharge rating, dimensions, delivery and validation are confirmed for the selected cells and assembly; prices on request.
+
 ## Contact / 采购联系
 
 - Phone / 电话: **+86 19921917746**
