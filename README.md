@@ -33,6 +33,14 @@ This catalogue links to existing product photographs and project information. It
 
 Company-authorized supply-product photographs, with AI-assisted background removal. These exterior styles do not identify fixed 4S/6S/7S specifications. Send the aircraft, capacity, load, installation size and quantity for model selection and quotation.
 
+### 15秒实物展示 / Real product footage
+
+[![强风无人机电池实物手持展示，查看壳体、侧锁扣和顶部按键区](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-real-view-poster-20261025.jpg)](https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos)
+
+[官网播放并联系选型 / Watch and enquire](https://www.qiangfengsh.com/drone-bms.html#uav-battery-photos) · [15.2秒无声实拍MP4 / Silent real-footage clip](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-real-view-20261025.mp4)
+
+视频为实物转动展示；不是放电、续航或飞行测试。外观不对应固定容量、电流或串数。Real hand-held exterior footage, not a discharge, runtime or flight test. Confirm the selected battery model, cells and supplied BMS/PACK configuration before quotation.
+
 ## Contact / 采购联系
 
 - Phone / 电话: **+86 19921917746**
@@ -62,7 +70,7 @@ Prices are on request. Export carriage, delivery and returns require destination
 **高压固定翼无人机电池项目**：可分别沟通电池PACK、BMS主控与采集、PDU配电及CAN接口。先明确所需供货范围，再按预算匹配已有板型、固件、结构与验证工作。
 
 - [中英项目需求表：选择PACK、BMS、PDU范围并生成询价文本](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/high-voltage-uav-battery#project-request)。生成仅在本页整理；由客户自行复制或发送，不自动下单或收款。
-- [公司采购资料更新页](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/zh#company-news) · [RSS订阅（8条既有产品与采购资源）](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/feed.xml)。可查看高压项目配套、6S板组、18串采集板和四容量兼容电池资料；资料入口不代表现货或交付批准。
+- [公司采购资料更新页](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/zh#company-news) · [RSS产品资料订阅](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/feed.xml)。可查看高压项目配套、6S板组、18串采集板和四容量兼容电池资料；资料入口不代表现货或交付批准。
 - High-voltage UAV enquiries: choose PACK, BMS, PDU or a combined scope in the bilingual project brief. Include voltage/energy, load duration, module space/mass, host CAN requirements, quantity and destination. Quotation, prototype and verification scope are agreed per project.
 
 **采购联系：19921917746 · 微信 dream_zhu_ · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。航用系统集成、整机验证及适航审定按项目另行确认。
@@ -199,6 +207,6 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **24 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **25 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
 
 
