@@ -17,6 +17,10 @@ This catalogue links to existing product photographs and project information. It
 
 [**查看4S / 6S / 7S无人机电池配套与发送需求**](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options)
 
+[**爱采购站内询价：4S / 6S / 7S无人机电池PACK定制**](https://b2b.baidu.com/land/6d32dd2a85d171b420784d4f5d595d8a) — 两款可供货外观图片、15秒实物展示与定制需求说明；价格面议，容量、电流、尺寸及交期按选定方案确认。此为询价商品，不是直接付款入口。
+
+Aicaigou project-enquiry listing: UAV battery PACK customization with simplified-board or in-house BMS options. Confirm the selected configuration and supplied parts before ordering.
+
 请提供机型、所需容量、持续/峰值电流及持续时间、尺寸重量、数量和预算。具体电芯、C倍率、交期、报价及验证范围逐项确认。既有LYF6S20A照片是6S BMS板组参考，20A不代表全部无人机电池PACK的放电能力。
 
 **电话19921917746 · 微信dream_zhu_ · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)**
@@ -215,6 +219,6 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **25 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **26 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
 
 
