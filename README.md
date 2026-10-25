@@ -23,6 +23,14 @@ This catalogue links to existing product photographs and project information. It
 
 **UAV battery projects:** 4S / 6S / 7S custom PACK enquiries, simplified-board options and in-house BMS integration. We match the configuration to the aircraft, load and budget. Capacity, current, discharge rating, dimensions, delivery and validation are confirmed for the selected cells and assembly; prices on request.
 
+### 无人机电池供货卡 / UAV battery supply card
+
+[**下载中英双语供货卡 / Download the bilingual supply card (2 pages, PDF)**](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-uav-battery-supply-card.pdf)
+
+两款授权产品实拍、简易板 / 自研BMS / 完整PACK配套，以及采购需求和电话微信，方便转发给采购与项目团队。电气配置、交期及报价按所选型号确认。
+
+Two company-authorized product photographs, supply options and direct enquiry contacts for sharing with a purchasing or engineering team. Confirm model-specific capacity, load, supplied parts and delivery in the quotation.
+
 ### 两款电池外观 / UAV battery formats
 
 | 深灰款 / Dark housing | 浅灰提手款 / Carry-handle housing |
