@@ -17,6 +17,12 @@ This catalogue links to existing product photographs and project information. It
 
 [**查看4S / 6S / 7S无人机电池配套与发送需求**](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options)
 
+[**在线提交无人机电池需求 / Send a UAV battery project enquiry**](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%B5%E6%B1%A0PACK%20%2F%20UAV%20battery%20PACK%20%E2%80%94%20%E8%AF%B7%E5%A1%AB%E5%86%99%E4%B8%B2%E6%95%B04S%2F6S%2F7S%E5%8F%8A%E6%95%B0%E9%87%8F%20%2F%20Add%20series%20count%20and%20quantity)
+
+表单已带入无人机电池PACK类别，请补充串数、数量、交付城市和回复方式；参数栏可写机型、容量、持续/峰值负载、尺寸、接口及预算。尚未确定的项目可写“待选型”。无需打开邮件应用；这是选型询价，具体配置、供货范围、报价及交期另行确认。
+
+The form starts with UAV battery PACK enquiries. Add your series count, quantity, destination and reply details; use the project field for the aircraft, capacity, load, size, interfaces and budget. If unsure, write “selection needed”. Enquiries only; configuration and delivery are confirmed before an order.
+
 [**爱采购站内询价：4S / 6S / 7S无人机电池PACK定制**](https://b2b.baidu.com/land/6d32dd2a85d171b420784d4f5d595d8a) — 两款可供货外观图片、15秒实物展示与定制需求说明；价格面议，容量、电流、尺寸及交期按选定方案确认。此为询价商品，不是直接付款入口。
 
 Aicaigou project-enquiry listing: UAV battery PACK customization with simplified-board or in-house BMS options. Confirm the selected configuration and supplied parts before ordering.
