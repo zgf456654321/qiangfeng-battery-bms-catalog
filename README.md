@@ -203,6 +203,17 @@ The Chinese design application **202530369177.8**, filed on **25 June 2025**, na
 
 [Buyer checks and enclosure enquiry / 官网设计资料与外观版本询问](https://www.qiangfengsh.com/international.html#battery-design-reference). This reference concerns appearance; confirm the actual enclosure revision and kit before quoting. Battery safety documentation, transport acceptance and marketplace permission are separate checks.
 
+### Published technical reference / 公开技术文献
+
+Qiangfeng is named in the Chinese utility-model publication **CN224267117U**, application **202521191437.8**, published **22 May 2026**. Its title is **一种具有供电功能的星链迷你接收器支撑机构及星链迷你接收器**. The disclosed structure combines battery power and terminal support with a quick-release assembly.
+
+- [Read the published technical reference in English](https://patents.google.com/patent/CN224267117U/en)
+- [核对中文公开文献、公司名称与结构说明](https://patents.google.com/patent/CN224267117U/zh)
+
+这份公开资料可用于了解强风相关产品的结构研发背景。采购仍按实际容量、壳体版本和套装清单确认；外观设计与此结构文献分别查看。
+
+**Discuss the version you need / 产品与供货询问:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Starlink%20Mini-compatible%20battery%20supply%20enquiry) · Phone **+86 19921917746** · WeChat **dream_zhu_**.
+
 ### Real installation demonstration / 实物安装演示
 
 <a href="https://www.qiangfengsh.com/international.html#battery-installation"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-installation-poster-original.png" alt="Original Qiangfeng compatible-battery installation, button and indicator demonstration" width="240"></a>
