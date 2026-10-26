@@ -7,8 +7,12 @@
 
 Building an e-bike or e-scooter battery pack? Talk to Qiangfeng about BMS boards, firmware integration and complete PACK development. We work with pack builders and equipment teams to match the board, protection functions, communication and assembly scope to the application and target cost.
 
-[**Ask about a BMS configuration — online enquiry**](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=Two-wheeler%20BMS%20%2F%20battery%20PACK%20project%20%7C%20%E4%B8%A4%E8%BD%AE%E8%BD%A6BMS%E4%B8%8E%E7%94%B5%E6%B1%A0PACK%20%E2%80%94%20add%20quantity%20or%20write%20selection%20needed)  
-[**Email our product team**](mailto:zgf004494@yeah.net?subject=Two-wheeler%20BMS%20supplier%20enquiry&body=Application%20%2F%20vehicle%20type%3A%0AWhat%20we%20need%20help%20with%3A%0AQuantity%20(if%20known)%3A%0ACountry%20%2F%20city%3A%0AReply%20contact%3A%0A)
+[**Email our product team — start a BMS enquiry**](mailto:zgf004494@yeah.net?subject=Two-wheeler%20BMS%20supplier%20enquiry&body=Application%20%2F%20vehicle%20type%3A%0AWhat%20we%20need%20help%20with%3A%0AQuantity%20(if%20known)%3A%0ACountry%20%2F%20city%3A%0AReply%20contact%3A%0A%0ASource%20page%3A%20https%3A%2F%2Fgithub.com%2Fzgf456654321%2Fqiangfeng-battery-bms-catalog%2Fblob%2Fmain%2Ftwo-wheeler-bms-enquiry.md)  
+**Phone:** +86 19921917746 · **WeChat:** dream_zhu_
+
+The email link opens your email app with a short project brief. Add what you know, then send it yourself. You can also contact us by phone or WeChat.
+
+[Optional: use the online enquiry form](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=Two-wheeler%20BMS%20%2F%20battery%20PACK%20project%20%7C%20%E4%B8%A4%E8%BD%AE%E8%BD%A6BMS%E4%B8%8E%E7%94%B5%E6%B1%A0PACK%20%E2%80%94%20add%20quantity%20or%20write%20selection%20needed)
 
 Start with what you need help with, your country and a reply contact. If you have not chosen the voltage, current or interface yet, write **“selection needed”**.
 
@@ -47,7 +51,10 @@ Prices are available on request. We confirm model-specific specifications and co
 - **整包开发或配套**：说明需要电芯、BMS、壳体、线束还是完整PACK，先确定合作范围。
 - **先沟通、再报价**：初次联系不用填完整技术问卷，详细参数随选型逐步核对。
 
-[**在线提交两轮车BMS / PACK需求**](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=Two-wheeler%20BMS%20%2F%20battery%20PACK%20project%20%7C%20%E4%B8%A4%E8%BD%AE%E8%BD%A6BMS%E4%B8%8E%E7%94%B5%E6%B1%A0PACK%20%E2%80%94%20add%20quantity%20or%20write%20selection%20needed)
+[**邮件发送两轮车BMS / PACK需求**](mailto:zgf004494@yeah.net?subject=Two-wheeler%20BMS%20supplier%20enquiry&body=Application%20%2F%20vehicle%20type%3A%0AWhat%20we%20need%20help%20with%3A%0AQuantity%20(if%20known)%3A%0ACountry%20%2F%20city%3A%0AReply%20contact%3A%0A%0ASource%20page%3A%20https%3A%2F%2Fgithub.com%2Fzgf456654321%2Fqiangfeng-battery-bms-catalog%2Fblob%2Fmain%2Ftwo-wheeler-bms-enquiry.md)  
+电话：19921917746 · 微信：dream_zhu_
+
+[备选：在线询价表](https://docs.google.com/forms/d/e/1FAIpQLSdx-mG3j-H6vrwYWqhMdXxItm-YVLeJKHv8Wl00nBteDbP6xw/viewform?usp=pp_url&entry.1964661460=Two-wheeler%20BMS%20%2F%20battery%20PACK%20project%20%7C%20%E4%B8%A4%E8%BD%AE%E8%BD%A6BMS%E4%B8%8E%E7%94%B5%E6%B1%A0PACK%20%E2%80%94%20add%20quantity%20or%20write%20selection%20needed)
 
 ## Direct company contact
 
