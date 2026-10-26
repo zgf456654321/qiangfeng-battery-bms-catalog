@@ -70,6 +70,16 @@ Company-authorized supply-product photographs, with AI-assisted background remov
 - [English catalogue](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/)
 - [Company website / 公司官网](https://www.qiangfengsh.com/)
 
+## Two-wheeler battery manufacturers: BMS and PACK enquiries / 两轮车BMS配套
+
+Building an e-bike or e-scooter battery pack? Qiangfeng provides BMS development and PACK project support. Review an available board first, then define the communication, wiring and customization needed for your application and target cost.
+
+[**View the two-wheeler BMS supply brief, original board photograph and online enquiry**](two-wheeler-bms-enquiry.md)
+
+两轮车电池厂家、PACK组装企业可先发用途、所需板卡或整包范围和回复方式；未定参数可写“待选型”。详细配置、报价与交期在选型后确认。
+
+**+86 19921917746 · WeChat dream_zhu_ · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)**
+
 ## English BMS development and battery PACK enquiries
 
 [**Custom BMS development in Shanghai — actual boards and project contact**](https://www.qiangfengsh.com/custom-bms-shanghai.html)
