@@ -188,7 +188,19 @@ These are separate controller and acquisition references. The BMU's 4–18-cell 
 
 ![Qiangfeng high-voltage BMS controller and cell-acquisition boards. These are components, not a complete aircraft battery PACK.](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/bms-high-voltage-original.jpg)
 
-![Original LYF6S20A 6S UAV BMS board-set photograph, a separate product line from the high-voltage BMS above.](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms-original.jpg)
+### 6S UAV BMS: inspect the actual board set
+
+<a href="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms#hardware-details"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms-original.jpg" width="220" alt="Original Qiangfeng LYF6S20A 6S UAV BMS board-set photograph"></a>
+
+| Main board / 主板 | Companion board / 配套小板 | Cell-connection board / 电芯连接板 |
+|---|---|---|
+| <a href="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-main-original.jpg"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-main-original.jpg" width="220" alt="Qiangfeng 6S UAV BMS main board, unchanged original company photograph"></a> | <a href="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-button-original.jpg"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-button-original.jpg" width="220" alt="Qiangfeng 6S UAV BMS companion board, unchanged original company photograph"></a> | <a href="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-cell-connection-original.jpg"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-cell-connection-original.jpg" width="170" alt="Qiangfeng 6S UAV BMS cell-connection board, unchanged original company photograph"></a> |
+
+Open each photograph at its original resolution. These are components of the 6S reference line, separate from the high-voltage BMS above. Selected revision, fitted functions, wiring and included parts are confirmed in the quotation.
+
+[**Hardware details and project quotation / 原板细节与选型**](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms#hardware-details) · [**TradeWheel product enquiry**](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)
+
+[zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=LYF6S20A%206S%20UAV%20BMS%20enquiry) · +86 19921917746 · WeChat dream_zhu_
 
 ## Starlink Mini-compatible battery kits
 
