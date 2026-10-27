@@ -37,6 +37,10 @@ Aicaigou project-enquiry listing: UAV battery PACK customization with simplified
 
 **UAV battery projects:** 4S / 6S / 7S custom PACK enquiries, simplified-board options and in-house BMS integration. We match the configuration to the aircraft, load and budget. Capacity, current, discharge rating, dimensions, delivery and validation are confirmed for the selected cells and assembly; prices on request.
 
+[**6S UAV BMS on TradeWheel — product details and platform enquiry**](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/) — LYF6S20A board set, 1-piece minimum, quotation on request. Use “Contact Now” for a platform enquiry; supplied parts, specifications and delivery are confirmed before an order.
+
+[TradeWheel站内询价：6S无人机BMS板组](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)；可通过“6S UAV Battery BMS”搜索查找。该入口为板卡询价，整包电池另行选型。
+
 ### 无人机电池供货卡 / UAV battery supply card
 
 [**下载中英双语供货卡 / Download the bilingual supply card (2 pages, PDF)**](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-uav-battery-supply-card.pdf)
@@ -258,6 +262,6 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
-Updated: **26 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
+Updated: **27 October 2026**. Photographs identify existing company hardware and historical project references. This repository does not grant a hardware, firmware, patent or certification licence. Availability, specifications and commercial terms are confirmed for the selected project and version.
 
 
