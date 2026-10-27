@@ -1,7 +1,23 @@
-# Two-wheeler BMS development and battery PACK supply
+# Two- and three-wheeler lithium battery PACK supply and BMS development
 
 **Qiangfeng New Energy Technology (Shanghai) Co., Ltd. · China**  
 **强风新能源科技（上海）有限公司｜两轮车锂电池BMS与PACK项目**
+
+## Actual battery PACK photographs / 两三轮车电池实拍
+
+![Qiangfeng two- and three-wheeler lithium battery packs and charger packages, original company photograph with English supply information](images/2026-10-27/qiangfeng-two-three-wheeler-battery-en.jpg)
+
+**Need complete battery packs, a BMS, or a custom configuration?** Qiangfeng supplies lithium battery PACKs and develops BMS solutions for project matching. The photographs show actual Qiangfeng-branded metal-housing packs and charger packages; the product bodies, labels and nameplates have not been redrawn.
+
+Tell us the vehicle type, target voltage and capacity, installation space, connector, quantity and destination. We compare an available configuration first and identify any BMS, enclosure or wiring work separately. This helps buyers assess the required scope and budget before requesting a quotation.
+
+**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two-%20or%20three-wheeler%20battery%20PACK%20enquiry) · **Phone:** +86 19921917746 · **WeChat:** dream_zhu_
+
+![Qiangfeng custom lithium battery PACK and BMS development enquiry guide beside an unchanged original product photograph](images/2026-10-27/qiangfeng-custom-battery-pack-en.jpg)
+
+The visible nameplate belongs to the photographed pack, not to every product in this catalogue. Cell chemistry, operating voltage range, current, dimensions, charger, supplied parts, lead time and delivery are confirmed for the selected model and order. Prices are on request; no universal shipping or certification claim is made.
+
+这批照片为强风两／三轮车电池原始实拍，仅在照片外增加英文说明。可沟通整包供货、自研BMS和PACK定制，按用途、预算与数量选型；具体型号、电芯、保护参数、接插件、充电器及交期在报价中确认。
 
 [**View product photographs and supply options / 查看产品实拍与供货范围**](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/two-wheeler-bms)
 
@@ -68,4 +84,4 @@ Shanghai coordinates development and project discussions; battery production is 
 
 [Back to the Qiangfeng product catalogue](README.md)
 
-Updated: 26 October 2026.
+Updated: 27 October 2026.
