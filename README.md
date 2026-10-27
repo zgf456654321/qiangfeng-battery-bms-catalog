@@ -7,6 +7,10 @@ BMS development, board supply and lithium battery PACK project enquiries for equ
 
 This catalogue links to existing product photographs and project information. It is not a hardware/firmware source release or an online checkout.
 
+### 最新供货观察 · 2026-10-27
+
+[**株洲规划135个北斗应用场景，强风对接无人机电池供货**](updates/2026-10-27-uav-battery-supply.md) — 结合独立新闻来源，查看两张公司产品资料、4S/6S/7S选型、自研BMS和PACK定制，以及电话、微信、邮箱。
+
 ## 4S / 6S / 7S无人机电池：自研BMS与PACK定制
 
 **强风正在重点推进无人机电池配套，主打高性价比与定制服务。** 结合电芯原厂合作资源，按机型、负载和预算匹配电芯、板卡与PACK装配，不用一套配置覆盖所有项目。
