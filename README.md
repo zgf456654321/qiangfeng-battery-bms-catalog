@@ -7,6 +7,16 @@ BMS development, board supply and lithium battery PACK project enquiries for equ
 
 This catalogue links to existing product photographs and project information. It is not a hardware/firmware source release or an online checkout.
 
+## Find the right product / 快速找到产品
+
+- [无人机 4S / 6S / 7S 电池与 BMS 定制](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options) · [6S BMS board set enquiry](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)
+- [E-bike / e-scooter battery PACKs and BMS — photos and enquiry](two-wheeler-bms-enquiry.md)
+- [Starlink Mini-compatible battery kits — 99 / 158 / 180 / 200 Wh](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/starlink-mini-battery)
+
+**Contact / 联系：** [+86 19921917746](tel:+8619921917746) · WeChat **dream_zhu_** · [zgf004494@yeah.net](mailto:zgf004494@yeah.net)
+
+Choose a product, tell us the quantity and destination, and we will confirm the selected configuration, quotation and delivery arrangements. Battery kits are third-party compatible accessories.
+
 ### 最新供货观察 · 2026-10-27
 
 [**株洲规划135个北斗应用场景，强风对接无人机电池供货**](updates/2026-10-27-uav-battery-supply.md) — 结合独立新闻来源，查看两张公司产品资料、4S/6S/7S选型、自研BMS和PACK定制，以及电话、微信、邮箱。
