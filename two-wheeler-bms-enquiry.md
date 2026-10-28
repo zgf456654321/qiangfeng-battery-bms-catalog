@@ -11,7 +11,7 @@
 
 Tell us the vehicle type, target voltage and capacity, installation space, connector, quantity and destination. We compare an available configuration first and identify any BMS, enclosure or wiring work separately. This helps buyers assess the required scope and budget before requesting a quotation.
 
-**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two-%20or%20three-wheeler%20battery%20PACK%20enquiry) · **Phone:** +86 19921917746 · **WeChat:** dream_zhu_
+**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two-%20or%20three-wheeler%20battery%20PACK%20enquiry&body=Product%20needed%3A%20two-%20or%20three-wheeler%20battery%20PACK%20%2F%20BMS%0AQuantity%20(if%20known)%3A%0ADestination%20country%20and%20city%3A%0AReply%20contact%3A%0ASource%3A%20GitHub%20two-wheeler%20product%20page) · **Phone:** +86 19921917746 · **WeChat:** dream_zhu_
 
 ![Qiangfeng custom lithium battery PACK and BMS development enquiry guide beside an unchanged original product photograph](images/2026-10-27/qiangfeng-custom-battery-pack-en.jpg)
 
