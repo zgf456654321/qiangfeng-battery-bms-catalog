@@ -31,6 +31,14 @@ The email link opens your email app with a short project brief. Add what you kno
 Prefer direct contact? Email **zgf004494@yeah.net**, phone **+86 19921917746**, or WeChat **dream_zhu_**.
 Start with what you need help with, your country and a reply contact. If you have not chosen the voltage, current or interface yet, write **“selection needed”**.
 
+## Battery examples for replacement enquiries / 电池外观选型参考
+
+Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah**. These labels identify the photographed examples only; they are not a promise of current stock or fit for a particular bike, scooter or tricycle. Ask for the current version before ordering.
+
+For a replacement enquiry, tell us the **vehicle or original battery model, label voltage and capacity, available installation dimensions, connector photos, quantity and destination**. We will check the matching pack and BMS requirements. Cell chemistry, operating voltage, charge and discharge current, charger compatibility and delivery terms must be confirmed for the selected version.
+
+两张公司实拍中分别可见 **64V 30Ah** 和 **76V 50Ah** 标识，仅供外观和选型沟通，不代表现货或适配所有车型。更换电池时可提供原车或旧电池型号、标签、电池仓尺寸、插头照片、数量及收货地；电芯体系、工作电压、电流、充电器和供货状态按具体版本确认。
+
 ## Choose the work you need
 
 | Your project | What we discuss |
@@ -82,4 +90,4 @@ Shanghai coordinates development and project discussions; battery production is 
 
 [Back to the Qiangfeng product catalogue](README.md)
 
-Updated: 27 October 2026.
+Updated: 30 October 2026.
