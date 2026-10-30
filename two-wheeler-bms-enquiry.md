@@ -35,6 +35,14 @@ Start with what you need help with, your country and a reply contact. If you hav
 
 Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah**. These labels identify the photographed examples only; they are not a promise of current stock or fit for a particular bike, scooter or tricycle. Ask for the current version before ordering.
 
+**64V 30Ah — photographed example / 标识64V 30Ah的实拍**
+
+![Original photograph of Qiangfeng battery pack labelled 64V30Ah; charger compatibility is not established](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-pack-64v30ah-original-20261027.jpg)
+
+**76V 50Ah — photographed example / 标识76V 50Ah的实拍**
+
+![Original photograph of Qiangfeng two- and three-wheeler battery pack labelled 76V50Ah](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-pack-76v50ah-original-20261027.jpg)
+
 For a replacement enquiry, tell us the **vehicle or original battery model, label voltage and capacity, available installation dimensions, connector photos, quantity and destination**. We will check the matching pack and BMS requirements. Cell chemistry, operating voltage, charge and discharge current, charger compatibility and delivery terms must be confirmed for the selected version.
 
 两张公司实拍中分别可见 **64V 30Ah** 和 **76V 50Ah** 标识，仅供外观和选型沟通，不代表现货或适配所有车型。更换电池时可提供原车或旧电池型号、标签、电池仓尺寸、插头照片、数量及收货地；电芯体系、工作电压、电流、充电器和供货状态按具体版本确认。
