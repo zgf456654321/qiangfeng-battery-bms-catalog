@@ -51,6 +51,26 @@ Qiangfeng بیٹری پیک کی فراہمی، اپنے تیار کردہ BMS �
 
 **ای میل:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two%20wheeler%20battery%20BMS%20enquiry%20Pakistan&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ACountry%20and%20city%3A%0AContact%3A%0ASource%3A%20GitHub%20Urdu) · **فون:** +86 19921917746 · **WeChat:** dream_zhu_
 
+## Español / 西班牙语
+
+**Baterías de litio y BMS para bicicletas, motos y triciclos eléctricos**
+
+Qiangfeng suministra baterías completas y desarrolla sistemas de gestión de baterías (BMS). Podemos revisar una configuración disponible o evaluar la personalización del PACK, la placa, el cableado y la comunicación según las necesidades del proyecto.
+
+Para solicitar información, indique el tipo de vehículo, voltaje y capacidad deseados, espacio disponible, conector, cantidad y país de destino. Si aún no conoce todos los datos, solicite ayuda para seleccionar la configuración. El precio y la entrega se confirman para cada pedido.
+
+**Correo:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Consulta%20bateria%20BMS%20Qiangfeng) · **Teléfono:** +86 19921917746 · **WeChat:** dream_zhu_
+
+## Bahasa Indonesia / 印度尼西亚语
+
+**Paket baterai litium dan BMS untuk sepeda, motor, dan kendaraan roda tiga listrik**
+
+Qiangfeng menyediakan paket baterai dan mengembangkan sistem manajemen baterai (BMS). Kami dapat memeriksa konfigurasi yang tersedia atau mengevaluasi penyesuaian PACK, papan BMS, kabel, dan komunikasi sesuai kebutuhan proyek.
+
+Untuk bertanya, sampaikan jenis kendaraan, tegangan dan kapasitas yang diinginkan, ruang pemasangan, konektor, jumlah, serta negara tujuan. Jika belum mengetahui semua data, Anda dapat meminta bantuan pemilihan. Harga dan pengiriman dikonfirmasi untuk setiap pesanan.
+
+**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Permintaan%20baterai%20BMS%20Qiangfeng) · **Telepon:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## Battery examples for replacement enquiries / 电池外观选型参考
 
 Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah**. These labels identify the photographed examples only; they are not a promise of current stock or fit for a particular bike, scooter or tricycle. Ask for the current version before ordering.
@@ -118,4 +138,4 @@ Shanghai coordinates development and project discussions; battery production is 
 
 [Back to the Qiangfeng product catalogue](README.md)
 
-Updated: 30 October 2026.
+Updated: 31 October 2026.
