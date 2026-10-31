@@ -31,6 +31,26 @@ The email link opens your email app with a short project brief. Add what you kno
 Prefer direct contact? Email **zgf004494@yeah.net**, phone **+86 19921917746**, or WeChat **dream_zhu_**.
 Start with what you need help with, your country and a reply contact. If you have not chosen the voltage, current or interface yet, write **“selection needed”**.
 
+## हिंदी / 印地语
+
+**इलेक्ट्रिक दोपहिया और तिपहिया वाहनों के लिए लिथियम बैटरी PACK और BMS**
+
+Qiangfeng बैटरी PACK आपूर्ति, अपने विकसित BMS और परियोजना के अनुसार कस्टम समाधान पर बातचीत करता है। उपलब्ध डिज़ाइन को वाहन और बजट से मिलाकर देखा जाता है; बैटरी की क्षमता, वोल्टेज, कनेक्टर, कीमत और डिलीवरी चयनित मॉडल के लिए अलग से तय होंगे।
+
+पूछताछ में वाहन का प्रकार, अपेक्षित वोल्टेज और क्षमता, बैटरी लगाने की जगह, मात्रा और गंतव्य बताएँ। सभी जानकारी न हो तो चयन में सहायता माँग सकते हैं।
+
+**ईमेल:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two%20wheeler%20battery%20BMS%20enquiry%20India&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ACountry%20and%20city%3A%0AContact%3A%0ASource%3A%20GitHub%20Hindi) · **फ़ोन:** +86 19921917746 · **WeChat:** dream_zhu_
+
+## اردو / 乌尔都语
+
+**الیکٹرک دو اور تین پہیہ گاڑیوں کے لیے لیتھیم بیٹری پیک اور BMS**
+
+Qiangfeng بیٹری پیک کی فراہمی، اپنے تیار کردہ BMS اور منصوبے کے مطابق حسبِ ضرورت حل کے بارے میں بات کرتا ہے۔ دستیاب ڈیزائن کو گاڑی اور بجٹ کے مطابق دیکھا جاتا ہے؛ وولٹیج، صلاحیت، کنیکٹر، قیمت اور ترسیل منتخب ماڈل کے لیے الگ سے طے ہوں گے۔
+
+استفسار میں گاڑی کی قسم، مطلوبہ وولٹیج اور صلاحیت، بیٹری کی جگہ، تعداد اور منزل بتائیں۔ اگر تمام معلومات موجود نہ ہوں تو انتخاب میں مدد مانگ سکتے ہیں۔
+
+**ای میل:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two%20wheeler%20battery%20BMS%20enquiry%20Pakistan&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ACountry%20and%20city%3A%0AContact%3A%0ASource%3A%20GitHub%20Urdu) · **فون:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## Battery examples for replacement enquiries / 电池外观选型参考
 
 Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah**. These labels identify the photographed examples only; they are not a promise of current stock or fit for a particular bike, scooter or tricycle. Ask for the current version before ordering.
