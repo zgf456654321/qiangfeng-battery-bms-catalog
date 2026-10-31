@@ -9,7 +9,7 @@ This catalogue links to existing product photographs and project information. It
 
 ## Find the right product / 快速找到产品
 
-- [无人机 4S / 6S / 7S 电池与 BMS 定制](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options) · [6S BMS board set enquiry](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)
+- [Drone / UAV battery PACKs — 4S, 6S, 7S enquiries / 无人机电池中英文询价](uav-battery-pack-enquiry.md) · [无人机 4S / 6S / 7S 电池与 BMS 定制](https://www.qiangfengsh.com/drone-bms.html#uav-battery-options) · [6S BMS board set enquiry](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)
 - [E-bike / e-scooter battery PACKs and BMS — photos and enquiry](two-wheeler-bms-enquiry.md)
 - [Starlink Mini-compatible battery kits — 99 / 158 / 180 / 200 Wh](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/starlink-mini-battery)
 
