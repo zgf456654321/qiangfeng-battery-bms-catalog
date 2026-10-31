@@ -17,6 +17,22 @@ Company-authorized supply-product photographs; backgrounds were removed with AI 
 
 以上为获准宣传的可供货产品外观图，背景经 AI 辅助抠除；外观不能确定串数、容量、电流和板卡，具体配置以选型和报价为准。
 
+## Español / 西班牙语
+
+**Baterías para drones y sistemas BMS a medida.** Qiangfeng atiende consultas sobre paquetes de litio 4S, 6S y 7S, opciones con placa sencilla y soluciones con BMS de desarrollo propio. La configuración depende del dron y de la carga; capacidad, corriente, conectores, precio y plazo se confirman en cada presupuesto.
+
+Para solicitar información, indique el tipo de dron, la capacidad y la corriente necesarias, las dimensiones disponibles, la cantidad y el país de destino. Si no conoce todos los datos, puede consultarnos para seleccionar una opción.
+
+**Correo:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Consulta%20bateria%20para%20dron&body=Tipo%20de%20dron%3A%0ACapacidad%20y%20corriente%3A%0ACantidad%3A%0APais%20y%20ciudad%3A%0AContacto%3A%0AOrigen%3A%20GitHub%20dron) · **Teléfono:** +86 19921917746 · **WeChat:** dream_zhu_
+
+## Bahasa Indonesia / 印度尼西亚语
+
+**Baterai drone dan BMS sesuai kebutuhan.** Qiangfeng menerima permintaan untuk paket baterai litium 4S, 6S dan 7S, pilihan papan sederhana, serta integrasi BMS yang dikembangkan sendiri. Konfigurasi disesuaikan dengan jenis drone dan beban; kapasitas, arus, konektor, harga dan waktu pengiriman dikonfirmasi saat penawaran.
+
+Untuk konsultasi, sampaikan jenis drone, kapasitas dan arus yang dibutuhkan, ruang pemasangan, jumlah dan negara tujuan. Jika belum mengetahui semua parameter, kami dapat membantu pemilihan konfigurasi.
+
+**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Permintaan%20baterai%20drone&body=Jenis%20drone%3A%0AKapasitas%20dan%20arus%3A%0AJumlah%3A%0ANegara%20dan%20kota%3A%0AKontak%3A%0ASumber%3A%20GitHub%20drone) · **Telepon:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## What to send us / 询价需要哪些信息
 
 - Aircraft type and application / 机型及用途
