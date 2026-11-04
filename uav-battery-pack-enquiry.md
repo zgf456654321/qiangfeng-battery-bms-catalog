@@ -7,6 +7,10 @@ Need a battery for a drone project? Qiangfeng discusses 4S, 6S and 7S lithium ba
 
 无人机项目可咨询 4S、6S、7S 锂电池整包、简易板方案及自研 BMS 配套。先根据机型和负载匹配已有方案，再评估电池、线束、接口和板卡的定制范围。
 
+**Request a drone battery quote / 无人机电池询价:** [Email zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Drone%20battery%20PACK%20enquiry) · **Tel:** +86 19921917746 · **WeChat:** dream_zhu_  
+Tell us your aircraft, 4S / 6S / 7S requirement, quantity and destination; specifications and shipping are confirmed for each project.  
+请提供机型、串数、数量和交付地；型号、报价和运输按项目确认。
+
 ## Battery formats / 电池外观参考
 
 ![Dark-housing UAV battery available for supply, original company-authorized product photograph with background removed](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-battery-dark-cutout-20261024.png)
