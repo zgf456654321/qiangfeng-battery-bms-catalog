@@ -81,6 +81,14 @@ Untuk bertanya, sampaikan jenis kendaraan, tegangan dan kapasitas yang diinginka
 
 **Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Permintaan%20baterai%20BMS%20Qiangfeng&body=Jenis%20kendaraan%20atau%20aplikasi%3A%0ATegangan%20dan%20kapasitas%20%28jika%20diketahui%29%3A%0AJumlah%3A%0ANegara%20dan%20kota%20tujuan%3A%0AKontak%3A%0ASumber%3A%20halaman%20GitHub%20Bahasa%20Indonesia) · **Telepon:** +86 19921917746 · **WeChat:** dream_zhu_
 
+## Русский / 俄语
+
+**Литиевые аккумуляторы и BMS для электрических двух- и трёхколёсных транспортных средств.** Qiangfeng предлагает аккумуляторные сборки и разработку BMS с подбором под проект. Обсуждаем существующие варианты и при необходимости — доработку платы, проводки, разъёмов и корпуса.
+
+Для запроса укажите тип транспорта, желаемое напряжение и ёмкость, доступное место, разъём, количество и страну назначения. Если часть параметров неизвестна, попросите помочь с подбором. Состав поставки, цена и доставка подтверждаются для конкретного заказа.
+
+**Электронная почта:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Electric%20vehicle%20battery%20BMS%20enquiry&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20two-wheeler%20Russian) · **Телефон:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## Battery examples for replacement enquiries / 电池外观选型参考
 
 Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah**. These labels identify the photographed examples only; they are not a promise of current stock or fit for a particular bike, scooter or tricycle. Ask for the current version before ordering.
