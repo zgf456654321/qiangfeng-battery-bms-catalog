@@ -21,6 +21,14 @@ Company-authorized supply-product photographs; backgrounds were removed with AI 
 
 以上为获准宣传的可供货产品外观图，背景经 AI 辅助抠除；外观不能确定串数、容量、电流和板卡，具体配置以选型和报价为准。
 
+## العربية / 阿拉伯语
+
+**بطاريات الطائرات دون طيار وأنظمة إدارة البطارية BMS.** تستقبل Qiangfeng استفسارات مشاريع بطاريات الليثيوم بتكوين 4S و6S و7S، مع خيارات لوحة حماية مبسطة أو دمج نظام BMS مطوّر داخلياً. نراجع نوع الطائرة والحمل والتكوين المتاح، ثم نحدد احتياجات التخصيص وفق المشروع.
+
+للاستفسار، يرجى إرسال نوع الطائرة والتطبيق، والسعة المطلوبة، والتيار المستمر والذروة ومدتهما، والمساحة والوزن المتاحين، والموصلات والكمية وبلد الوجهة. إذا لم تعرف كل التفاصيل، يمكن طلب المساعدة في الاختيار. يُؤكد التكوين والسعر وترتيبات شحن البطارية حسب المشروع والوجهة.
+
+**البريد الإلكتروني:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Drone%20battery%20BMS%20enquiry&body=Aircraft%20and%20application%3A%0ASeries%20and%20capacity%3A%0AQuantity%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20UAV%20Arabic) · **الهاتف:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## Español / 西班牙语
 
 **Baterías para drones y sistemas BMS a medida.** Qiangfeng atiende consultas sobre paquetes de litio 4S, 6S y 7S, opciones con placa sencilla y soluciones con BMS de desarrollo propio. La configuración depende del dron y de la carga; capacidad, corriente, conectores, precio y plazo se confirman en cada presupuesto.
