@@ -90,6 +90,6 @@ Not sure of every parameter? Send what you have and say **“selection needed”
 - [Bilingual UAV battery supply card / 中英文供货卡](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-uav-battery-supply-card.pdf)
 - [6S BMS board enquiry on TradeWheel / 6S BMS 板卡询价](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)
 
-The TradeWheel listing concerns a 6S BMS board set; a complete battery PACK is quoted separately. Shanghai handles project coordination; battery production is coordinated with our Jiangxi factory.
+The TradeWheel listing concerns a 6S BMS board set; a complete battery PACK is quoted separately. The marketplace currently shows a one-piece minimum and Shanghai dispatch, but these terms are not verified. Please confirm minimum quantity, dispatch location, included parts and quotation with us before ordering. Shanghai handles project coordination; battery production is coordinated with our Jiangxi factory.
 
 TradeWheel 链接为 6S BMS 板组，整包电池需要另行选型报价。上海负责项目对接，电池生产由江西工厂协调。
