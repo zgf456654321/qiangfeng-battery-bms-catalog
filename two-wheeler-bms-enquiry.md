@@ -31,6 +31,16 @@ The email link opens your email app with a short project brief. Add what you kno
 Prefer direct contact? Email **zgf004494@yeah.net**, phone **+86 19921917746**, or WeChat **dream_zhu_**.
 Start with what you need help with, your country and a reply contact. If you have not chosen the voltage, current or interface yet, write **“selection needed”**.
 
+## العربية / 阿拉伯语
+
+**بطاريات الليثيوم وأنظمة إدارة البطارية للدراجات والمركبات الكهربائية ذات العجلتين أو الثلاث.**
+
+توفّر Qiangfeng حزم بطاريات الليثيوم وتطوّر أنظمة إدارة البطارية (BMS) وفق متطلبات المشروع. نراجع التكوين المتاح أولاً، ثم نناقش التخصيص المطلوب للبطارية أو لوحة BMS أو التوصيلات.
+
+للاستفسار، يرجى إرسال نوع المركبة والجهد والسعة المطلوبين ومساحة التركيب والموصل والكمية وبلد الوجهة. إذا لم تتوفر بعض المعلومات، يمكن طلب المساعدة في الاختيار. يُحدَّد السعر والترتيبات اللوجستية حسب المشروع والوجهة.
+
+**البريد الإلكتروني:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two-wheeler%20battery%20BMS%20enquiry&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ACountry%20and%20city%3A%0AContact%3A%0ASource%3A%20GitHub%20Arabic) · **الهاتف:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## हिंदी / 印地语
 
 **इलेक्ट्रिक दोपहिया और तिपहिया वाहनों के लिए लिथियम बैटरी PACK और BMS**
