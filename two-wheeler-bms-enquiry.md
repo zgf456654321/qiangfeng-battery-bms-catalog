@@ -69,7 +69,7 @@ Qiangfeng suministra baterías completas y desarrolla sistemas de gestión de ba
 
 Para solicitar información, indique el tipo de vehículo, voltaje y capacidad deseados, espacio disponible, conector, cantidad y país de destino. Si aún no conoce todos los datos, solicite ayuda para seleccionar la configuración. El precio y la entrega se confirman para cada pedido.
 
-**Correo:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Consulta%20bateria%20BMS%20Qiangfeng&body=Veh%C3%ADculo%20o%20aplicaci%C3%B3n%3A%0AVoltaje%20y%20capacidad%20(si%20se%20conocen)%3A%0ACantidad%3A%0APa%C3%ADs%20y%20ciudad%20de%20destino%3A%0AContacto%3A%0AOrigen%3A%20GitHub%20p%C3%A1gina%20en%20espa%C3%B1ol) · **Teléfono:** +86 19921917746 · **WeChat:** dream_zhu_
+**Correo:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Consulta%20bateria%20BMS%20Qiangfeng&body=Veh%C3%ADculo%20o%20aplicaci%C3%B3n%3A%0AVoltaje%20y%20capacidad%20%28si%20se%20conocen%29%3A%0ACantidad%3A%0APa%C3%ADs%20y%20ciudad%20de%20destino%3A%0AContacto%3A%0AOrigen%3A%20GitHub%20p%C3%A1gina%20en%20espa%C3%B1ol) · **Teléfono:** +86 19921917746 · **WeChat:** dream_zhu_
 
 ## Bahasa Indonesia / 印度尼西亚语
 
@@ -79,7 +79,7 @@ Qiangfeng menyediakan paket baterai dan mengembangkan sistem manajemen baterai (
 
 Untuk bertanya, sampaikan jenis kendaraan, tegangan dan kapasitas yang diinginkan, ruang pemasangan, konektor, jumlah, serta negara tujuan. Jika belum mengetahui semua data, Anda dapat meminta bantuan pemilihan. Harga dan pengiriman dikonfirmasi untuk setiap pesanan.
 
-**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Permintaan%20baterai%20BMS%20Qiangfeng&body=Jenis%20kendaraan%20atau%20aplikasi%3A%0ATegangan%20dan%20kapasitas%20(jika%20diketahui)%3A%0AJumlah%3A%0ANegara%20dan%20kota%20tujuan%3A%0AKontak%3A%0ASumber%3A%20halaman%20GitHub%20Bahasa%20Indonesia) · **Telepon:** +86 19921917746 · **WeChat:** dream_zhu_
+**Email:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Permintaan%20baterai%20BMS%20Qiangfeng&body=Jenis%20kendaraan%20atau%20aplikasi%3A%0ATegangan%20dan%20kapasitas%20%28jika%20diketahui%29%3A%0AJumlah%3A%0ANegara%20dan%20kota%20tujuan%3A%0AKontak%3A%0ASumber%3A%20halaman%20GitHub%20Bahasa%20Indonesia) · **Telepon:** +86 19921917746 · **WeChat:** dream_zhu_
 
 ## Battery examples for replacement enquiries / 电池外观选型参考
 
