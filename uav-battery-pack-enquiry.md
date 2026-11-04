@@ -61,6 +61,14 @@ Untuk konsultasi, sampaikan jenis drone, kapasitas dan arus yang dibutuhkan, rua
 
 **ای میل:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Drone%20battery%20enquiry) · **فون:** +86 19921917746 · **WeChat:** dream_zhu_
 
+## Русский / 俄语
+
+**Аккумуляторы и BMS для беспилотников.** Qiangfeng принимает запросы на литиевые аккумуляторные сборки 4S, 6S и 7S, варианты с простой платой защиты и интеграцию BMS собственной разработки. Сначала проверяем подходящую существующую конфигурацию, затем обсуждаем доработки для конкретного проекта.
+
+Для подбора укажите тип и назначение беспилотника, требуемые ёмкость и ток нагрузки, размеры и ограничение массы, количество и страну назначения. Если параметры пока неизвестны, попросите помочь с выбором. Комплектация, цена, сроки и возможность перевозки аккумуляторов подтверждаются отдельно.
+
+**Электронная почта:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Drone%20battery%20BMS%20enquiry&body=Aircraft%20type%3A%0ASeries%20and%20capacity%3A%0AQuantity%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20UAV%20Russian) · **Телефон:** +86 19921917746 · **WeChat:** dream_zhu_
+
 ## What to send us / 询价需要哪些信息
 
 - Aircraft type and application / 机型及用途
