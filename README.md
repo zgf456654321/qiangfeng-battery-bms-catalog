@@ -254,7 +254,7 @@ Qiangfeng is named in the Chinese utility-model publication **CN224267117U**, ap
 
 ### Real installation demonstration / 实物安装演示
 
-<a href="https://www.qiangfengsh.com/international.html#battery-installation"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-installation-poster-original.png" alt="Original Qiangfeng compatible-battery installation, button and indicator demonstration" width="240"></a>
+<a href="https://www.youtube.com/shorts/P1m5C3dLEyc"><img src="https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-installation-poster-original.png" alt="Original Qiangfeng compatible-battery installation, button and indicator demonstration" width="240"></a>
 
 Watch 14.8 seconds of original manufacturer footage showing fitting, the power button and the indicator. The silent demonstration is a series reference; confirm the selected capacity and hardware version in the quotation. It is not a runtime or network-connectivity test.
 
