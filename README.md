@@ -135,7 +135,7 @@ Prices are on request. Export carriage, delivery and returns require destination
 
 | 产品或项目 | 已公开的实物与型号 | 选型及采购入口 |
 |---|---|---|
-| 无人机6串BMS板组 | LYF6S20A，资料标称6串20A，主板、配套小板及电芯连接板分别核对；上海发货、1件起订、面议 | [6S板组原图与参数说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) · [中英文供货询价卡](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf) |
+| 无人机6串BMS板组 | LYF6S20A，资料标称6串20A，主板、配套小板及电芯连接板分别核对；起订数量、发货地及报价按订单确认 | [6S板组原图与参数说明](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/uav-6s-bms) · [中英文供货询价卡](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf) |
 | 分布式BMS主控 | SHQF-MBMS V1.0原板，外部接触器、传感器、线束及固件另行确认 | [主控实拍与爱采购商品入口](https://www.qiangfengsh.com/product.html#verified-board-supply) |
 | 电芯采集模块 | SHQF-CBMS V1.0，18串单板采集范围，核对电芯体系、线序、温度与主控配套 | [18串采集板独立采购页与实拍](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/18s-cell-monitoring-board) |
 | EMS储能控制板 | 公司原始实拍，BMS、PCS及外围设备接口与协议按项目确认 | [EMS实拍与采购说明](https://www.qiangfengsh.com/product.html#verified-board-supply) |
