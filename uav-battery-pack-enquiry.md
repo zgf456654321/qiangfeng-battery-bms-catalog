@@ -29,6 +29,14 @@ Company-authorized supply-product photographs; backgrounds were removed with AI 
 
 **البريد الإلكتروني:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Drone%20battery%20BMS%20enquiry&body=Aircraft%20and%20application%3A%0ASeries%20and%20capacity%3A%0AQuantity%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20UAV%20Arabic) · **الهاتف:** +86 19921917746 · **WeChat:** dream_zhu_
 
+## Français / 法语
+
+**Batteries pour drones et systèmes de gestion de batterie (BMS).** Qiangfeng étudie les demandes de packs lithium 4S, 6S et 7S, avec carte de protection simple ou BMS développé en interne. Nous examinons d'abord la configuration disponible, puis les adaptations nécessaires au projet.
+
+Pour une demande, indiquez le type de drone, la capacité souhaitée, les courants continu et de pointe, les dimensions disponibles, la quantité et le pays de destination. Si certains paramètres restent à définir, demandez une aide au choix. La configuration, le prix et le transport sont confirmés pour chaque projet.
+
+**E-mail :** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Demande%20batterie%20drone%20BMS&body=Type%20de%20drone%3A%0ATension%20et%20capacite%3A%0AQuantite%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20drone%20francais) · **Téléphone :** +86 19921917746 · **WeChat :** dream_zhu_
+
 ## Español / 西班牙语
 
 **Baterías para drones y sistemas BMS a medida.** Qiangfeng atiende consultas sobre paquetes de litio 4S, 6S y 7S, opciones con placa sencilla y soluciones con BMS de desarrollo propio. La configuración depende del dron y de la carga; capacidad, corriente, conectores, precio y plazo se confirman en cada presupuesto.
