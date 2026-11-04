@@ -182,6 +182,16 @@ These are separate controller and acquisition references. The BMU's 4–18-cell 
 
 **项目联系 / Project enquiries:** 电话 **+86 19921917746** · 微信 **dream_zhu_** · 邮箱 **[zgf004494@yeah.net](mailto:zgf004494@yeah.net)**。
 
+## أنظمة إدارة البطاريات عالية الجهد / High-voltage BMS in Arabic
+
+تقدم شركة Qiangfeng حلول إدارة البطاريات عالية الجهد لمشاريع تخزين الطاقة والمعدات الصناعية. يمكن مناقشة وحدة التحكم، ووحدات مراقبة الخلايا، والاتصال مع أجهزة PCS أو EMS حسب احتياجات المشروع.
+
+للاستفسار، يرجى تحديد كيمياء الخلايا، وعدد الخلايا ووحدات المراقبة، وجهد النظام، والواجهات المطلوبة، والكمية وبلد الوجهة. تُؤكَّد المواصفات والأجزاء المشمولة والاختبارات والسعر والتسليم لكل مشروع.
+
+**البريد الإلكتروني:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=High-voltage%20BMS%20project%20enquiry) · **الهاتف:** +86 19921917746 · **WeChat:** dream_zhu_
+
+[تفاصيل المشروع والاتصال / Project information](https://www.qiangfengsh.com/custom-bms-shanghai.html#enquiry)
+
 ## BMS and PACK references / 产品与项目资料
 
 | Reference | Supply scope and original photographs |
