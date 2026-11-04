@@ -239,7 +239,7 @@ These are third-party compatible accessories, not official Starlink or SpaceX pr
 
 The Chinese design application **202530369177.8**, filed on **25 June 2025**, names Qiangfeng New Energy Technology (Shanghai) Co., Ltd. The design title is **迷你供电电池（星链带底座功能的）**. [Published reference CN309883941S on Google Patents](https://patents.google.com/patent/CN309883941S/zh).
 
-[Buyer checks and enclosure enquiry / 官网设计资料与外观版本询问](https://www.qiangfengsh.com/international.html#battery-design-reference). This reference concerns appearance; confirm the actual enclosure revision and kit before quoting. Battery safety documentation, transport acceptance and marketplace permission are separate checks.
+This reference concerns appearance; confirm the actual enclosure revision and kit before quoting. Battery safety documentation, transport acceptance and marketplace permission are separate checks.
 
 ### Published technical reference / 公开技术文献
 
@@ -260,7 +260,6 @@ Watch 14.8 seconds of original manufacturer footage showing fitting, the power b
 
 查看真实安装、按键与指示灯演示，再对照上表选择容量。视频展示同系列硬件；具体容量、供货版本和随配充电器在报价中确认。
 
-- [Watch the original demonstration on Qiangfeng’s company website / 官网实物演示](https://www.qiangfengsh.com/international.html#battery-installation)
 - [YouTube installation demonstration — Malay, Hindi and Urdu captions / 三语字幕实物演示](https://www.youtube.com/shorts/P1m5C3dLEyc)
 - [StrongWindPower Malaysia company TikTok / 马来店关联公司号](https://www.tiktok.com/@strongwindpower_my) — product demonstrations; battery shipping and order availability require separate confirmation.
 - [View four charger-included kit specifications and supplier phone / 爱采购四容量规格与商家电话](https://b2b.baidu.com/land/e2ee5658716f3f6532efc389ae691b01)
@@ -280,7 +279,6 @@ For a compatible battery enquiry, specify capacity, quantity, required accessori
 
 - [Company and public product facts](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/company)
 - [Plain-text company/product index](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/llms.txt)
-- [Four battery model references checked against 2026 transport documents](https://www.qiangfengsh.com/international.html#battery-document-review) — model references, not carrier or marketplace approval.
 - [Current public product guide](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-product-guide-2026-10.pdf)
 - [Published 6S UAV BMS procurement brief](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/qiangfeng-lyf6s20a-procurement-brief.pdf)
 
