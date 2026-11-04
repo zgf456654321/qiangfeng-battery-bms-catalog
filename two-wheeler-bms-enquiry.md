@@ -61,6 +61,14 @@ Qiangfeng بیٹری پیک کی فراہمی، اپنے تیار کردہ BMS �
 
 **ای میل:** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Two%20wheeler%20battery%20BMS%20enquiry%20Pakistan&body=Vehicle%3A%0AVoltage%20and%20capacity%3A%0AQuantity%3A%0ACountry%20and%20city%3A%0AContact%3A%0ASource%3A%20GitHub%20Urdu) · **فون:** +86 19921917746 · **WeChat:** dream_zhu_
 
+## Français / 法语
+
+**Packs de batteries au lithium et BMS pour deux-roues et trois-roues électriques.** Qiangfeng fournit des packs et développe des systèmes de gestion de batterie ; nous examinons les modèles disponibles et les adaptations possibles de la carte BMS, du câblage et de la communication selon le projet.
+
+Pour demander une proposition, indiquez le type de véhicule, la tension et la capacité souhaitées, les dimensions disponibles, le connecteur, la quantité et le pays de destination. Si vous ne connaissez pas encore tous les paramètres, demandez une aide au choix. Les spécifications, le prix et la livraison sont confirmés pour chaque commande.
+
+**E-mail :** [zgf004494@yeah.net](mailto:zgf004494@yeah.net?subject=Demande%20batterie%20deux%20roues%20BMS&body=Type%20de%20vehicule%3A%0ATension%20et%20capacite%3A%0AQuantite%3A%0ADestination%3A%0AContact%3A%0ASource%3A%20GitHub%20deux%20roues%20francais) · **Téléphone :** +86 19921917746 · **WeChat :** dream_zhu_
+
 ## Español / 西班牙语
 
 **Baterías de litio y BMS para bicicletas, motos y triciclos eléctricos**
