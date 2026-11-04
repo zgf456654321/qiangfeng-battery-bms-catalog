@@ -48,7 +48,7 @@ Aicaigou project-enquiry listing: UAV battery PACK customization with simplified
 
 **UAV battery projects:** 4S / 6S / 7S custom PACK enquiries, simplified-board options and in-house BMS integration. We match the configuration to the aircraft, load and budget. Capacity, current, discharge rating, dimensions, delivery and validation are confirmed for the selected cells and assembly; prices on request.
 
-[**6S UAV BMS on TradeWheel — product details and platform enquiry**](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/) — LYF6S20A board set; minimum quantity and quotation are confirmed for each order. Use “Contact Now” for a platform enquiry; supplied parts, specifications and delivery are confirmed before an order.
+[**6S UAV BMS on TradeWheel — product details and platform enquiry**](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/) — LYF6S20A board set. The marketplace currently displays a one-piece minimum and Shanghai dispatch, but those conditions have not been verified; confirm minimum quantity, dispatch location, supplied parts and quotation with Qiangfeng before ordering. Use “Contact Now” for a platform enquiry.
 
 [TradeWheel站内询价：6S无人机BMS板组](https://www.tradewheel.com/p/6s-uav-battery-bms-board-set-3022626/)；可通过“6S UAV Battery BMS”搜索查找。该入口为板卡询价，整包电池另行选型。
 
