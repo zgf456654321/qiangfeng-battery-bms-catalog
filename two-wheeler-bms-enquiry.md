@@ -109,7 +109,9 @@ Two original company photographs show packs labelled **64V 30Ah** and **76V 50Ah
 
 ![Original photograph of Qiangfeng two- and three-wheeler battery pack labelled 76V50Ah](https://qiangfeng-battery-bms.zgf004494.chatgpt.site/battery-pack-76v50ah-original-20261027.jpg)
 
-For a replacement enquiry, tell us the **vehicle or original battery model, label voltage and capacity, available installation dimensions, connector photos, quantity and destination**. We will check the matching pack and BMS requirements. Cell chemistry, operating voltage, charge and discharge current, charger compatibility and delivery terms must be confirmed for the selected version.
+For a replacement enquiry, tell us the **vehicle or original battery model, label voltage and capacity, available installation dimensions, connector photos, quantity and destination**. We will check the matching pack and BMS requirements.
+
+**Example enquiry — 48V / 13S e-bike pack:** Share a photo of the original battery label and connector, the battery-compartment dimensions, required quantity and destination. Tell us whether the current figure is in A or the capacity is in Ah, and whether you need a matching charger. We will assess the existing configuration and shipping options before quoting; compatibility and supply are subject to confirmation. Cell chemistry, operating voltage, charge and discharge current, charger compatibility and delivery terms must be confirmed for the selected version.
 
 两张公司实拍中分别可见 **64V 30Ah** 和 **76V 50Ah** 标识，仅供外观和选型沟通，不代表现货或适配所有车型。更换电池时可提供原车或旧电池型号、标签、电池仓尺寸、插头照片、数量及收货地；电芯体系、工作电压、电流、充电器和供货状态按具体版本确认。
 
